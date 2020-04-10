@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: flying-kube
-  replicas: 6
+  replicas: 50
   template:
     metadata:
       labels:
